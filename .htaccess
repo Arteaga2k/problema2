@@ -10,7 +10,7 @@ Options -Indexes
 
 
 # Indicamos desde donde vamos a iniciar
-RewriteBase /problema3/app
+RewriteBase /problema2/app
 
 # # Disable rewriting for existing files or directories
 RewriteCond %{REQUEST_FILENAME} !-d

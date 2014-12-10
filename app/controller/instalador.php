@@ -13,7 +13,7 @@ class Instalador extends Controller
     public function __construct()
     {
         if (! defined('URL'))
-            define('URL', 'http://localhost/problema3/');
+            define('URL', 'http://localhost/problema2/');
         if (! defined('PATH_VIEWS'))
             define('PATH_VIEWS', 'views/');
         if (! defined('PATH_VIEW_FILE_TYPE'))

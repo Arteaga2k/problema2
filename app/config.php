@@ -1,8 +1,8 @@
 <?php
         /**
-        * Configuración: La URL del proyecto problema1
+        * Configuración: La URL del proyecto problema2
         */
-        define('URL', 'http://localhost/problema3/');
+        define('URL', 'http://localhost/problema2/');
         
         
         
